@@ -1,5 +1,9 @@
-## Hi there 👋
+## Olá tudo bem? Me chamo Lethicia 👋
+Estou iniciando minha carreira profissional aos 18 anos em uma área que gosto muito, a tecnologia.
+Atualmente cursando AMS- Análise e Desenvolvimento de Sistemas e adquirindo conhecimento sobre coisas novas.
 
+- 🔭 Estou procurando por oportunidades de emprego na área de TI
+- - ⚡Possuo dois certificados de Inglês nível B1 e B2 
 <!--
 **lethicia1306/lethicia1306** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
